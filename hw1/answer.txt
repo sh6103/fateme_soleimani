@@ -1,0 +1,16 @@
+
+1.termites
+2.baikal
+2.olive
+3.belgium
+1.hugo
+1.true.t
+2.false.f
+2.false.f
+1.true.t
+1.true.t
+tokyo
+everest
+pacific.aram
+giraffe.zarrafe
+china.chin
